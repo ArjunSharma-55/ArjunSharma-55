@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Arjun Sharma
-**B.Tech CSE Student | Aspiring Software Engineer 🚀 | C++ • DSA • Web Development | Building projects, solving problems & learning every day.**
+**B.Tech CSE/IT Student | Aspiring Software Engineer 🚀 | C++ • DSA • Web Development | Building projects, solving problems & learning every day.**
 
 Email Me 👉 ✉️ **sharmaarjun4955@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
