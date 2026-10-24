@@ -8,8 +8,10 @@ Email Me 👉 ✉️ **sharmaarjun4955@gmail.com** For Collaboration/Project or 
 - 😄 **Pronouns:** Arjun Sharma
 - ⚡ **Fun fact:** I Love Tech and Tech Loves Me
 
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=900&color=8B9BB4&center=true&vCenter=true&width=650&lines=Building+ideas+into+real+projects.;Learning.+Building.+Improving.;Exploring+Web+Development%2C+AI+%26+Cybersecurity;Code.+Create.+Innovate.+Repeat.+%E2%9A%A1" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+ideas+into+real+projects.;Turning+ideas+into+code%2C+and+code+into+impact.+%E2%9A%A1;Exploring+Web+Development%2C+AI+%26+Cybersecurity.;Dream+in+ideas.+Build+with+code.+Innovate+with+AI.+%F0%9F%9A%80;Think.+Code.+Create.+Evolve.;From+curiosity+to+creativity%2C+one+project+at+a+time.+%F0%9F%92%BB;Building+ideas+into+reality.;One+line+of+code+at+a+time.+%E2%9A%A1;Code.+Create.+Innovate.+Repeat.+%E2%9A%A1" alt="Animated developer introduction" />
 </p>
 
 
