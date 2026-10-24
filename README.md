@@ -9,8 +9,9 @@ Email Me 👉 ✉️ **sharmaarjun4955@gmail.com** For Collaboration/Project or 
 - ⚡ **Fun fact:** I Love Tech and Tech Loves Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=900&color=8B9BB4&center=true&vCenter=true&width=600&lines=Building+ideas+into+real+projects.;Learning.+Building.+Improving.;Exploring+Web+Development%2C+AI+%26+Cybersecurity." alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=900&color=8B9BB4&center=true&vCenter=true&width=650&lines=Building+ideas+into+real+projects.;Learning.+Building.+Improving.;Exploring+Web+Development%2C+AI+%26+Cybersecurity;Code.+Create.+Innovate.+Repeat.+%E2%9A%A1" alt="Animated introduction" />
 </p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arjunxsh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-sharma-4dd4955) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ArjunSharma055) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharmaarjun4955@gmail.com) 
