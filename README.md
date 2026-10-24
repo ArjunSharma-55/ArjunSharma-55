@@ -113,8 +113,8 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <h3>⚡ ProfileForge — GitHub Profile README Generator</h3>
+    <td width="50%" valign="top">
+      <h3>⚡ ProfileForge</h3>
       <p>A web project for creating and customizing GitHub profile README files.</p>
       <p><b>Tech:</b> HTML · CSS · JavaScript</p>
       <a href="https://arjunsharma-55.github.io/ProfileForge/">
@@ -123,6 +123,18 @@
       <br/><br/>
       <a href="https://github.com/ArjunSharma-55/ProfileForge">
         <img src="https://img.shields.io/badge/💻_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="ProfileForge Repository"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✦ QR Studio</h3>
+      <p>A premium glassmorphism QR code generator with customizable styles, multiple content types, and PNG/SVG export.</p>
+      <p><b>Tech:</b> HTML · CSS · JavaScript</p>
+      <a href="https://arjunsharma-55.github.io/QR-Studio/">
+        <img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge" alt="QR Studio Live Demo"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/ArjunSharma-55/QR-Studio">
+        <img src="https://img.shields.io/badge/💻_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="QR Studio Repository"/>
       </a>
     </td>
   </tr>
