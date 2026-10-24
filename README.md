@@ -1,6 +1,12 @@
 # 💫 Hi 👋, I'm Arjun Sharma
 
-**B.Tech CSE/IT Student | C++ • DSA • Web Development | Building projects, solving problems & learning every day.**
+
+
+> ⚡ Less talk. More commits. Bigger visions.
+
+> 💻 Turning ideas into code, and code into reality.
+
+> ◈ Build • Innovate • Evolve
 
 📧 **Email:** [sharmaarjun4955@gmail.com](mailto:sharmaarjun4955@gmail.com)  
 🤝 Open to collaboration, project discussions, and learning opportunities.
