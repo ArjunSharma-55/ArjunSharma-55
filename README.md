@@ -1,22 +1,42 @@
 # 💫 Hi 👋, I'm Arjun Sharma
+
 **B.Tech CSE/IT Student | C++ • DSA • Web Development | Building projects, solving problems & learning every day.**
 
-Email Me 👉 ✉️ **sharmaarjun4955@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+📧 **Email:** [sharmaarjun4955@gmail.com](mailto:sharmaarjun4955@gmail.com)  
+🤝 Open to collaboration, project discussions, and learning opportunities.
 
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** sharmaarjun4955@gmail.com
-- 😄 **Pronouns:** Arjun Sharma
-- ⚡ **Fun fact:** I Love Tech and Tech Loves Me
-
-
+- 💬 **Ask me about:** Collaboration, tech support, and my projects
+- 📫 **Reach me at:** [Email me](mailto:sharmaarjun4955@gmail.com)
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I love tech, and tech loves me!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+ideas+into+real+projects.;Turning+ideas+into+code%2C+and+code+into+impact.+%E2%9A%A1;Exploring+Web+Development%2C+AI+%26+Cybersecurity.;Dream+in+ideas.+Build+with+code.+Innovate+with+AI.+%F0%9F%9A%80;Think.+Code.+Create.+Evolve.;From+curiosity+to+creativity%2C+one+project+at+a+time.+%F0%9F%92%BB;Building+ideas+into+reality.;One+line+of+code+at+a+time.+%E2%9A%A1;Code.+Create.+Innovate.+Repeat.+%E2%9A%A1" alt="Animated developer introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+ideas+into+real+projects.;Turning+ideas+into+code%2C+and+code+into+impact.+%E2%9A%A1;Exploring+Web+Development%2C+AI+%26+Cybersecurity.;Dream+in+ideas.+Build+with+code.+Innovate+with+AI.+%F0%9F%9A%80;Think.+Code.+Create.+Evolve.;From+curiosity+to+creativity%2C+one+project+at+a+time.+%F0%9F%92%BB;Code.+Create.+Innovate.+Repeat.+%E2%9A%A1" alt="Animated developer introduction" />
 </p>
 
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arjunxsh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-sharma-4dd4955) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ArjunSharma055) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharmaarjun4955@gmail.com) 
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://instagram.com/arjunxsh">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://linkedin.com/in/arjun-sharma-4dd4955">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/ArjunSharma055">
+    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
+  </a>
+  <a href="mailto:sharmaarjun4955@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/ArjunSharma-55">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
 
 <!-- Snake Game Repo View -->
 
@@ -24,69 +44,142 @@ Email Me 👉 ✉️ **sharmaarjun4955@gmail.com** For Collaboration/Project or 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+## 💻 Tech Stack
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### Programming Languages
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Tools, Cloud & Data
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+
+---
 
 ## 🚀 Featured Projects
 
+<p align="center">
+  <b>Turning ideas into projects — one commit at a time. ⚡</b>
+</p>
+
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🛡️ CyberShield</h3>
-      An advanced cybersecurity-themed web project.
+      <p>A cybersecurity-themed web project focused on digital security and awareness.</p>
+      <p><b>Tech:</b> HTML · CSS · JavaScript</p>
+      <a href="https://arjunsharma-55.github.io/CyberShield/">
+        <img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge" alt="CyberShield Live Demo"/>
+      </a>
       <br/><br/>
-      <a href="https://github.com/ArjunSharma-55/CyberShield">View Repository →</a>
+      <a href="https://github.com/ArjunSharma-55/CyberShield">
+        <img src="https://img.shields.io/badge/💻_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="CyberShield Repository"/>
+      </a>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>✋ Air-WhiteBoard</h3>
-      A gesture-based virtual drawing and whiteboard project.
+      <p>A gesture-based virtual drawing and whiteboard project.</p>
+      <p><b>Tech:</b> HTML · CSS · JavaScript</p>
+      <a href="https://arjunsharma-55.github.io/Air-WhiteBoard/">
+        <img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge" alt="Air-WhiteBoard Live Demo"/>
+      </a>
       <br/><br/>
-      <a href="https://github.com/ArjunSharma-55/Air-WhiteBoard">View Repository →</a>
+      <a href="https://github.com/ArjunSharma-55/Air-WhiteBoard">
+        <img src="https://img.shields.io/badge/💻_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Air-WhiteBoard Repository"/>
+      </a>
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <h3>⚡ ProfileForge</h3>
-      A GitHub Profile README Generator.
+    <td colspan="2" valign="top">
+      <h3>⚡ ProfileForge — GitHub Profile README Generator</h3>
+      <p>A web project for creating and customizing GitHub profile README files.</p>
+      <p><b>Tech:</b> HTML · CSS · JavaScript</p>
+      <a href="https://arjunsharma-55.github.io/ProfileForge/">
+        <img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge" alt="ProfileForge Live Demo"/>
+      </a>
       <br/><br/>
-      <a href="https://github.com/ArjunSharma-55/ProfileForge">View Repository →</a>
-      ·
-      <a href="https://arjunsharma-55.github.io/ProfileForge/">Live Demo →</a>
+      <a href="https://github.com/ArjunSharma-55/ProfileForge">
+        <img src="https://img.shields.io/badge/💻_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="ProfileForge Repository"/>
+      </a>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <i>Explore the live demos, check out the source code, and follow my journey! 🚀</i>
+</p>
+
+---
 
 ## 🎯 Currently Learning
 
 - 📘 Strengthening C++ and Data Structures & Algorithms
 - 🌐 Building responsive web applications
 - 🧩 Improving problem-solving and software design
-- 🚀 Creating practical, GitHub-ready projects
+- 🔐 Exploring cybersecurity concepts
+- 🚀 Building practical, GitHub-ready projects
+
+---
 
 ## 🤝 Let's Collaborate
 
-I'm interested in open-source contributions, web development,
-and projects that help me learn by building.
+I'm interested in open-source contributions, web development, and projects that help me learn by building.
 
 - 💼 [LinkedIn](https://linkedin.com/in/arjun-sharma-4dd4955)
 - 💻 [GitHub](https://github.com/ArjunSharma-55)
 - 📧 [Email](mailto:sharmaarjun4955@gmail.com)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ArjunSharma-55&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ArjunSharma-55&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ArjunSharma-55&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
+## 📊 GitHub Statistics
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArjunSharma-55&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Arjun's GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=ArjunSharma-55&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ArjunSharma-55&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunSharma-55&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=ArjunSharma-55&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Developer Quote"/>
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArjunSharma-55&style=for-the-badge&color=blue" alt="Profile Visitors"/>
+</p>
+
+---
+
+<p align="center">
+  <b>“Think. Code. Create. Evolve.” ⚡</b>
+  <br/>
+  Thanks for visiting my profile! 😊
+</p>
