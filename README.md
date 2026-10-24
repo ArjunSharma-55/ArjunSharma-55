@@ -7,7 +7,6 @@
 
 - 💬 **Ask me about:** Collaboration, tech support, and my projects
 - 📫 **Reach me at:** [Email me](mailto:sharmaarjun4955@gmail.com)
-- 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I love tech, and tech loves me!
 
 <p align="center">
