@@ -166,16 +166,30 @@ I'm interested in open-source contributions, web development, and projects that 
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArjunSharma-55&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Arjun's GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=ArjunSharma-55&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=ArjunSharma-55&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="Arjun's GitHub Statistics"
+  />
+  <img
+    width="49%"
+    src="https://streak-stats.demolab.com/?user=ArjunSharma-55&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata"
+    alt="Arjun's GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunSharma-55&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  <img
+    width="45%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ArjunSharma-55&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
 </p>
+
 
 ---
 
