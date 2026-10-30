@@ -1,9 +1,7 @@
 # 💫 Hi 👋, I'm Arjun Sharma
 
 > ⚡ Less talk. More commits. Bigger visions.
-
 > 💻 Turning ideas into code, and code into reality.
-
 > ◈ Build • Innovate • Evolve
 
 📧 **Email:** [sharmaarjun4955@gmail.com](mailto:sharmaarjun4955@gmail.com)  
@@ -42,7 +40,6 @@
 ---
 
 <!-- Snake Game Repo View -->
-
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
@@ -78,7 +75,6 @@
 ---
 
 ## 🚀 Featured Projects
-
 <p align="center">
   <b>Turning ideas into projects — one commit at a time. ⚡</b>
 </p>
