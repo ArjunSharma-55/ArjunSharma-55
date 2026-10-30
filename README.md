@@ -1,7 +1,9 @@
 # 💫 Hi 👋, I'm Arjun Sharma
 
 > ⚡ Less talk. More commits. Bigger visions.
+> 
 > 💻 Turning ideas into code, and code into reality.
+> 
 > ◈ Build • Innovate • Evolve
 
 📧 **Email:** [sharmaarjun4955@gmail.com](mailto:sharmaarjun4955@gmail.com)  
