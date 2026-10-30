@@ -210,3 +210,8 @@ I'm interested in open-source contributions, web development, and projects that 
   <br/>
   Thanks for visiting my profile! 😊
 </p>
+
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</div>
