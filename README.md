@@ -1,7 +1,5 @@
 # 💫 Hi 👋, I'm Arjun Sharma
 
-
-
 > ⚡ Less talk. More commits. Bigger visions.
 > 
 > 💻 Turning ideas into code, and code into reality.
@@ -217,3 +215,5 @@ I'm interested in open-source contributions, web development, and projects that 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
+
+
