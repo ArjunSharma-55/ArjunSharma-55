@@ -1,12 +1,13 @@
 # 💫 Hi 👋, I'm Arjun Sharma
 
 > ⚡ Less talk. More commits. Bigger visions.
-> 
+>
 > 💻 Turning ideas into code, and code into reality.
-> 
+>
 > ◈ Build • Innovate • Evolve
 
-📧 **Email:** [sharmaarjun4955@gmail.com](mailto:sharmaarjun4955@gmail.com)  
+📧 **Email:** [sharmaarjun4955@gmail.com](mailto:sharmaarjun4955@gmail.com)
+
 🤝 Open to collaboration, project discussions, and learning opportunities.
 
 - 💬 **Ask me about:** Collaboration, tech support, and my projects
@@ -41,14 +42,18 @@
 
 ---
 
-<!-- Snake Game Repo View -->
+## 🐍 GitHub Contribution Snake
+
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+---
+
 ## 💻 Tech Stack
 
 ### Programming Languages
+
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -56,15 +61,18 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Web Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Tools, Cloud & Data
+
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -77,6 +85,7 @@
 ---
 
 ## 🚀 Featured Projects
+
 <p align="center">
   <b>Turning ideas into projects — one commit at a time. ⚡</b>
 </p>
@@ -96,6 +105,20 @@
       </a>
     </td>
     <td width="50%" valign="top">
+      <h3>🎨 UI/UX Vault Pro</h3>
+      <p>An interactive UI/UX inspiration library featuring 140+ design resources across 7 categories and 4 developer tools.</p>
+      <p><b>Tech:</b> HTML · CSS · JavaScript</p>
+      <a href="https://arjunsharma-55.github.io/UI-Vault-Pro/">
+        <img src="https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge" alt="UI/UX Vault Pro Live Demo"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/ArjunSharma-55/UI-Vault-Pro">
+        <img src="https://img.shields.io/badge/💻_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="UI/UX Vault Pro Repository"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>✋ Air-WhiteBoard</h3>
       <p>A gesture-based virtual drawing and whiteboard project.</p>
       <p><b>Tech:</b> HTML · CSS · JavaScript</p>
@@ -107,8 +130,6 @@
         <img src="https://img.shields.io/badge/💻_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Air-WhiteBoard Repository"/>
       </a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>⚡ ProfileForge</h3>
       <p>A web project for creating and customizing GitHub profile README files.</p>
@@ -121,9 +142,11 @@
         <img src="https://img.shields.io/badge/💻_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="ProfileForge Repository"/>
       </a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>✦ QR Studio</h3>
-      <p>A premium glassmorphism QR code generator with customizable styles, multiple content types, and PNG/SVG export.</p>
+      <p>A QR code generator with customizable styles, multiple content types, and PNG/SVG export.</p>
       <p><b>Tech:</b> HTML · CSS · JavaScript</p>
       <a href="https://arjunsharma-55.github.io/QR-Studio/">
         <img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge" alt="QR Studio Live Demo"/>
@@ -131,6 +154,14 @@
       <br/><br/>
       <a href="https://github.com/ArjunSharma-55/QR-Studio">
         <img src="https://img.shields.io/badge/💻_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="QR Studio Repository"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 More Projects Coming Soon</h3>
+      <p>Continuously exploring new ideas, building practical applications, and improving my development skills.</p>
+      <p><b>Focus:</b> Web Development · Programming · UI/UX</p>
+      <a href="https://github.com/ArjunSharma-55?tab=repositories">
+        <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
       </a>
     </td>
   </tr>
@@ -162,7 +193,6 @@ I'm interested in open-source contributions, web development, and projects that 
 
 ---
 
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -185,7 +215,6 @@ I'm interested in open-source contributions, web development, and projects that 
     alt="Most Used Languages"
   />
 </p>
-
 
 ---
 
@@ -211,9 +240,4 @@ I'm interested in open-source contributions, web development, and projects that 
   Thanks for visiting my profile! 😊
 </p>
 
-<!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-</div>
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer wave"/>
