@@ -93,6 +93,18 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🌊 AuraWave</h3>
+      <p>An immersive audio experience platform built with modern web technologies, designed to explore sound through an engaging digital experience.</p>
+      <p><b>Tech:</b> React · TypeScript · Vite · Tailwind CSS</p>
+      <a href="https://aurawave-gray.vercel.app/">
+        <img src="https://img.shields.io/badge/🌐_Live_Demo-7B2FF7?style=for-the-badge" alt="AuraWave Live Demo"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/ArjunSharma-55/AuraWave">
+        <img src="https://img.shields.io/badge/💻_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="AuraWave Repository"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
       <h3>🛡️ CyberShield</h3>
       <p>A cybersecurity-themed web project focused on digital security and awareness.</p>
       <p><b>Tech:</b> HTML · CSS · JavaScript</p>
@@ -104,6 +116,9 @@
         <img src="https://img.shields.io/badge/💻_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="CyberShield Repository"/>
       </a>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top">
       <h3>🎨 UI/UX Vault Pro</h3>
       <p>An interactive UI/UX inspiration library featuring 140+ design resources across 7 categories and 4 developer tools.</p>
@@ -116,8 +131,6 @@
         <img src="https://img.shields.io/badge/💻_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="UI/UX Vault Pro Repository"/>
       </a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>✋ Air-WhiteBoard</h3>
       <p>A gesture-based virtual drawing and whiteboard project.</p>
@@ -130,6 +143,9 @@
         <img src="https://img.shields.io/badge/💻_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Air-WhiteBoard Repository"/>
       </a>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top">
       <h3>⚡ ProfileForge</h3>
       <p>A web project for creating and customizing GitHub profile README files.</p>
@@ -142,8 +158,6 @@
         <img src="https://img.shields.io/badge/💻_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="ProfileForge Repository"/>
       </a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>✦ QR Studio</h3>
       <p>A QR code generator with customizable styles, multiple content types, and PNG/SVG export.</p>
@@ -156,16 +170,14 @@
         <img src="https://img.shields.io/badge/💻_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="QR Studio Repository"/>
       </a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🚀 More Projects Coming Soon</h3>
-      <p>Continuously exploring new ideas, building practical applications, and improving my development skills.</p>
-      <p><b>Focus:</b> Web Development · Programming · UI/UX</p>
-      <a href="https://github.com/ArjunSharma-55?tab=repositories">
-        <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-      </a>
-    </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/ArjunSharma-55?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+  </a>
+</p>
 
 <p align="center">
   <i>Explore the live demos, check out the source code, and follow my journey! 🚀</i>
